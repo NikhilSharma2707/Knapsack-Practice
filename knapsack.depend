@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711796024 source:c:\daa exam prac\knapsack\knapsack\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
